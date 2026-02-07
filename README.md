@@ -15,7 +15,6 @@
 - **Navigation**: React Navigation (Stack, Bottom Tabs)
 
 ## 📸 Screenshots
-![로그인 화면](./assets/startscreen.png)
-![회원가입 화면](./assets/signupscreen.png)
-![홈 화면](./assets/homescreen.png)
-![통계 화면](./assets/statscreen.png)
+<img src="./assets/startscreen.png" width="200" /> <img src="./assets/signupscreen.png" width="200" />
+
+<img src="./assets/homescreen.png" width="200" /> <img src="./assets/statscreen.png" width="200" />
